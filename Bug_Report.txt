@@ -1,0 +1,10 @@
+Id bug
+Title
+Version
+Preconditions
+STR
+Expected result
+Actual result
+Environment
+Severity
+Priority
